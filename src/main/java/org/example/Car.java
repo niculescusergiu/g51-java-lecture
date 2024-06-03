@@ -5,6 +5,6 @@ public class Car {
     // reg.nr
     //max speed
     //owner name
-
+   //horsepower
 
 }
