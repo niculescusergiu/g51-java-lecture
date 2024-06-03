@@ -16,7 +16,7 @@ public class OperatorsDemo {
         int y = 5;
         int sum = x + y; //addition
         int difference = x - y; //subtraction
-        int multiplication = x * y;
+        int multiplication = x * y; //multiplication
         int quotient = x / y; //division
         int remainder = x % y; //modulus or remainder
         System.out.println(sum);
